@@ -3,15 +3,11 @@ package com.carlos.eje_jps_1;
 import java.util.ArrayList;
 
 public class operacionesCalculadora {
+    
     public operacionesCalculadora(){
         
     }
-    public ArrayList<String> ejecutar(ArrayList<String> operaciones){
-        ArrayList<String> resultados= new ArrayList<>();
         
-        return resultados;
-    }
-    
     public double multiplicarNumeros(double n1, double n2){
         return n1*n2;
     }
